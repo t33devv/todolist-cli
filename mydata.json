@@ -1,6 +1,11 @@
 {
-  "Chinese homework" : true,
-  "Math homework" : false,
-  "English homework" : true,
-  "Science hw" : false
+  "Send PayPal invoices" : true,
+  "Finish Dr.Bri work" : true,
+  "Complete 2 neetcode questions" : true,
+  "Create a contact book with Maven" : false,
+  "Start learning git/github" : false,
+  "Script Manta videos" : false,
+  "Memorize 100+ anki words" : false,
+  "Start doing SenseAI hacking" : false,
+  "Script my own vlog" : false
 }

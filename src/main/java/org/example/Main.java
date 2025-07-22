@@ -158,10 +158,10 @@ public class Main {
 
         number--;
 
-        jsonHandler.deleteKey(number);
-
         System.out.println("");
         System.out.println("Successfully deleted task '" + jsonHandler.getKey(number) + "'");
         System.out.println("");
+
+        jsonHandler.deleteKey(number);
     }
 }
